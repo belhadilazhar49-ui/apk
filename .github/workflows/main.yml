@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "StockFlow v2.0 - Desktop + Mobile"
+git remote add origin https://github.com/VOTRE_NOM/stockflow.git
+git push -u origin main
